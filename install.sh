@@ -1,5 +1,10 @@
 #!/bin/bash
 
+mv ./param_gfnff.xtb ./.param_gfnff.xtb
+mv ./travis.yml ./.travis.yml
+mv ./xtbrc ./.xtbrc
+mv ./zenodo.json ./.zenodo.json
+
 sudo apt update
 sudo apt install -y gcc g++ build-essential gfortran cmake liblapack-dev libblas-dev libopenblas-dev
 export FC="gfortran -O2 -mtune=native" CC=gcc
