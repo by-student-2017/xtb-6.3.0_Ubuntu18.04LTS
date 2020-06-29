@@ -2,7 +2,7 @@
 
 sudo apt update
 sudo apt install -y gcc g++ build-essential gfortran cmake liblapack-dev libblas-dev libopenblas-dev
-export FC=gfortran CC=gcc
+export FC="gfortran -O2 -mtune=native" CC=gcc
 mkdir build
 pushd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
