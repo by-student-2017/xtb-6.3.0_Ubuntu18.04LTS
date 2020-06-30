@@ -26,7 +26,7 @@
 7. ./install.sh
 
 
-Mabye, Ubuntu 20.04 LTS and Debian 10.0 can do it.
+Maybe, Ubuntu 20.04 LTS and Debian 10.0 could do it.
 
 
 -----
@@ -52,6 +52,8 @@ Mabye, Ubuntu 20.04 LTS and Debian 10.0 can do it.
 
 
 accuracy comparing other methods, Ref. 5-9.
+
+
 [5] P. Prachit et al., universitat bonn, preprint (2019) 1-19.
   DOI: 10.26434/chemrxiv.8326202.v1
   https://www.researchgate.net/publication/334099237_A_Robust_Non-Self-Consistent_Tight-Binding_Quantum_Chemistry_Method_for_large_Molecules
@@ -78,6 +80,8 @@ accuracy comparing other methods, Ref. 5-9.
 
 
 excitation spectra (TDA), Ref. 10-11.
+
+
 [10] sTDA - A simplified Tamm-Dancoff density functional approach for electronic excitation spectra 
   https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/stda/stda
   https://github.com/grimme-lab/stda
@@ -85,6 +89,8 @@ excitation spectra (TDA), Ref. 10-11.
 
 [11] S. Grimme et al., J. Chem. Phys. 145 (2016) 054103.
   https://doi.org/10.1063/1.4959605
+
+
 
 
 QCEIMS, Ref. 12-15. 
